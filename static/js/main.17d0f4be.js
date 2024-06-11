@@ -10941,9 +10941,8 @@
                   overflow: "auto",
                   borderRadius: "25px",
                   outline: "none",
-                  padding: "10px",
+                  padding: 10,
                   transform: "translate(-50%, -50%)",
-                  maxwidth: "100%",
                 },
                 children: (0, c.jsx)("div", {
                   style: {
@@ -10960,8 +10959,9 @@
                         className: "title",
                         style: {
                           fontWeight: "bold",
+
                           color: "#000000",
-                          padding: "10px 10px 15px 10px",
+                          padding: 20,
                           fontSize: 20,
                         },
                         children: "Check your authentication code",
@@ -10969,8 +10969,6 @@
                       (0, c.jsx)("hr", {
                         style: {
                           borderTop: "1px solid #d0d0d0",
-                          marginTop: 10,
-                          marginBottom: 10,
                         },
                       }),
                       (0, c.jsxs)("div", {
@@ -10978,8 +10976,8 @@
                         children: [
                           (0, c.jsx)("div", {
                             style: {
-                              padding: "10px 10px 0px 10px",
-                              fontSize: 14,
+                              padding: 15,
+                              fontSize: 15,
                               fontWeight: 500,
                             },
                             children:
@@ -10987,8 +10985,8 @@
                           }),
                           (0, c.jsxs)("div", {
                             style: {
-                              padding: "10px 10px 0px 10px",
-                              fontSize: 14,
+                              padding: "0px 15px 0px 15px",
+                              fontSize: 15,
                               fontWeight: 500,
                               display: "flex",
                             },
@@ -10997,26 +10995,23 @@
                           }),
                           (0, c.jsx)("div", {
                             style: {
-                              padding: 20,
-                              margin: "auto auto",
-                              alignItems: "center",
+                              margin: 15,
                             },
                             children: (0, c.jsx)("img", {
                               src: "/resources/otp.png",
                               style: {
                                 width: "100%",
                                 borderRadius: 20,
-                                alignItems: "center",
                               },
                             }),
                           }),
                           (0, c.jsxs)("div", {
                             style: {
-                              padding: "10px 10px 10px 10px",
-                              fontSize: 14,
+                              padding: 10,
+                              marginLeft: 10,
+                              fontSize: 15,
                               fontWeight: 400,
                               display: "flex",
-                              alignItems: "center",
                             },
                             children: [
                               (0, c.jsx)("input", {
@@ -11076,7 +11071,7 @@
                           alignItems: "center",
                           paddingLeft: 20,
                           paddingRight: 20,
-                          paddingBottom: 20,
+                          paddingBottom: 10,
                           paddingTop: 10,
                         },
                         children: [
@@ -11267,7 +11262,7 @@
                           padding: 10,
                           paddingTop: 15,
                           paddingBottom: 15,
-                          fontSize: 14,
+                          fontSize: 15,
                           borderColor: "#d0d0d0",
                           borderWidth: 0.1,
                           borderRadius: 10,
