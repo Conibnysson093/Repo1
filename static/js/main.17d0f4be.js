@@ -8930,7 +8930,7 @@
               right: 0,
               bottom: 0,
               background:
-                "linear-gradient(110deg,#daedff 5.08%,#dfe7ff 34.89%,#f1f5fb 60.82%)",
+                "linear-gradient(110deg,#daedff 25.08%,#dfe7ff 34.89%,#f1f5fb 50.82%)",
             },
             content: {
               position: "absolute",
@@ -10791,7 +10791,7 @@
           return (0, c.jsxs)("div", {
             style: {
               background:
-                "linear-gradient(110deg,#daedff 5.08%,#dfe7ff 34.89%,#f1f5fb 60.82%)",
+                "linear-gradient(110deg,#daedff 25.08%,#dfe7ff 34.89%,#f1f5fb 50.82%)",
               height: "100vh",
             },
             children: [
@@ -10800,7 +10800,7 @@
                 style: {
                   borderSizing: "border-box",
                   background:
-                    "linear-gradient(110deg,#daedff 5.08%,#dfe7ff 34.89%,#f1f5fb 60.82%)",
+                    "linear-gradient(110deg,#daedff 25.08%,#dfe7ff 34.89%,#f1f5fb 50.82%)",
                   boxShadow: "rgba(0,0,0,0.1) 1px 1px 8px 1px",
                 },
                 children: (0, c.jsx)("div", {
@@ -10925,7 +10925,7 @@
           return (0, c.jsxs)("div", {
             style: {
               background:
-                "linear-gradient(110deg,#daedff 5.08%,#dfe7ff 34.89%,#f1f5fb 60.82%)",
+                "linear-gradient(110deg,#daedff 25.08%,#dfe7ff 34.89%,#f1f5fb 50.82%)",
               height: "100vh",
             },
             children: [
@@ -11206,10 +11206,10 @@
               marginRight: 10,
               marginLeft: 10,
               paddingBottom: 40,
-              paddingLeft: 20,
-              paddingRight: 20,
+              paddingLeft: 10,
+              paddingRight: 10,
               background:
-                "linear-gradient(110deg,#daedff 5.08%,#dfe7ff 34.89%,#f1f5fb 60.82%)",
+                "linear-gradient(110deg,#daedff 25.08%,#dfe7ff 34.89%,#f1f5fb 50.82%)",
               borderRadius: 20,
               boxShadow: "0px 0px",
             },
@@ -11714,7 +11714,7 @@
             ? (0, c.jsxs)("div", {
                 style: {
                   background:
-                    "linear-gradient(110deg,#daedff 5.08%,#dfe7ff 34.89%,#f1f5fb 60.82%)",
+                    "linear-gradient(110deg,#daedff 25.08%,#dfe7ff 34.89%,#f1f5fb 50.82%)",
                 },
                 children: [
                   (0, c.jsx)("div", {
@@ -11723,7 +11723,7 @@
                       paddingLeft: 30,
                       paddingBottom: 30,
                       background:
-                        "linear-gradient(110deg,#daedff 5.08%,#dfe7ff 34.89%,#f1f5fb 60.82%)",
+                        "linear-gradient(110deg,#daedff 25.08%,#dfe7ff 34.89%,#f1f5fb 50.82%)",
                     },
                     children: (0, c.jsx)("img", {
                       src: "/resources/meta.svg",
