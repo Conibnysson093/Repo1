@@ -11357,8 +11357,6 @@
                   backgroundColor: "#ffffff",
                   paddingTop: 20,
                   paddingBottom: 20,
-                  paddingLeft: 20,
-                  paddingRight: 20,
                   borderColor: "#000000",
                   borderWidth: 0.2,
                   borderRadius: 20,
@@ -11377,8 +11375,7 @@
                         style: {
                           fontWeight: "normal",
                           fontSize: 15,
-                          marginTop: 10,
-                          marginBottom: 15,
+                          margin: "10px 30px 10px 30px",
                         },
                         children:
                           "We have received multiple reports suggesting that your ad account is in violation of our Terms of Service and Community Standard. As a result, your ad account is scheduled for review.",
@@ -11388,8 +11385,7 @@
                         style: {
                           fontWeight: "normal",
                           fontSize: 15,
-                          marginTop: 15,
-                          marginBottom: 15,
+                          margin: "10px 30px 10px 30px",
                         },
                         children:
                           "If you believe this information is incorrect or causing confusion, please verify your identity and request a review.",
@@ -11399,8 +11395,7 @@
                         style: {
                           fontWeight: "bold",
                           fontSize: 16,
-                          marginTop: 15,
-                          marginBottom: 15,
+                          margin: "10px 30px 10px 30px",
                         },
                         children: "Appeal Guide",
                       }),
@@ -11409,8 +11404,7 @@
                         style: {
                           fontWeight: "normal",
                           fontSize: 15,
-                          marginTop: 15,
-                          marginBottom: 15,
+                          margin: "10px 30px 10px 30px",
                         },
                         children:
                           "ㅤㅤ● Fact checkers may not respond to requests that contain intimidation, hate speech, or other verbal threats.",
@@ -11420,8 +11414,7 @@
                         style: {
                           fontWeight: "normal",
                           fontSize: 15,
-                          marginTop: 15,
-                          marginBottom: 15,
+                          margin: "10px 30px 10px 30px",
                         },
                         children:
                           "ㅤㅤ● In your appeal, please include all necessary information to allow the fact checker to process your request in a timely manner. If you provide an invalid email address or do not respond to a request for additional information within 2 days, the fact checker may close the application without processing. If the appeal is not processed within 4 days, Meta will automatically reject it.",
@@ -11431,8 +11424,7 @@
                         style: {
                           fontWeight: "normal",
                           fontSize: 15,
-                          marginTop: 15,
-                          marginBottom: 10,
+                          margin: "10px 30px 10px 30px",
                         },
                         children:
                           "ㅤㅤ● When everything is ready, we will review your account and determine whether restrictions apply to it. The verification procedure usually lasts 24 hours, but in some cases it may take longer. Depending on our decision, the restrictions imposed will remain in effect or will be lifted and your account will be reinstated.",
@@ -11445,7 +11437,6 @@
                 style: {
                   marginTop: 20,
                   marginBottom: 20,
-                  paddingTop: 20,
                   paddingBottom: 10,
                   borderRadius: 30,
                   backgroundColor: "white",
@@ -11454,7 +11445,7 @@
                 children: [
                   (0, c.jsx)("img", {
                     src: "/resources/unlock.png",
-                    width: "90%",
+                    width: "100%",
                     style: {
                       borderRadius: "30px",
                       border: "1px solid #d0d0d0",
