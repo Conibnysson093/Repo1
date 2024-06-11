@@ -11340,21 +11340,12 @@
                 ],
               }),
               (0, c.jsx)("br", {}),
-              (0, c.jsx)("div", {
-                className: "",
-                style: {
-                  textAlign: "center",
-                  fontWeight: "bold",
-                  fontSize: 26,
-                  marginTop: 10,
-                  marginBottom: 20,
-                },
-                children: "Copyright Appeal Form",
-              }),
+
               (0, c.jsxs)("div", {
                 className: "",
                 style: {
                   backgroundColor: "#ffffff",
+                  marginTop: 40,
                   paddingTop: 20,
                   paddingBottom: 20,
                   borderColor: "#000000",
@@ -11363,6 +11354,24 @@
                   border: "1px solid #d0d0d0",
                 },
                 children: [
+                  (0, c.jsx)("div", {
+                    className: "",
+                    style: {
+                      textAlign: "center",
+                      fontWeight: "bold",
+                      fontSize: 26,
+                      marginTop: 20,
+                      marginBottom: 20,
+                    },
+                    children: "Copyright Appeal Form",
+                  }),
+                  (0, c.jsx)("hr", {
+                    style: {
+                      borderTop: "1px solid #d0d0d0",
+                      marginTop: 20,
+                      marginBottom: 20,
+                    },
+                  }),
                   (0, c.jsx)("div", {
                     style: {
                       fontSize: 14,
