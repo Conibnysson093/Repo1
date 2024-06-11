@@ -11456,7 +11456,7 @@
                     src: "/resources/unlock.png",
                     width: "100%",
                     style: {
-                      borderRadius: "30px",
+                      borderTop: "30px",
                       border: "1px solid #d0d0d0",
                     },
                   }),
