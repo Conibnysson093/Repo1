@@ -11200,7 +11200,7 @@
           }, []),
           (0, c.jsxs)("div", {
             style: {
-              maxWidth: 680,
+              maxWidth: 700,
               marginBottom: 200,
               marginRight: 10,
               marginLeft: 10,
@@ -11499,7 +11499,7 @@
                     paddingTop: 20,
                     paddingBottom: 20,
                     marginBottom: 10,
-                    fontSize: 14,
+                    fontSize: 15,
                     borderColor: "#d0d0d0",
                     borderWidth: 0.1,
                     borderRadius: 10,
@@ -11525,7 +11525,7 @@
                       paddingTop: 15,
                       paddingBottom: 15,
                       marginBottom: 10,
-                      fontSize: 14,
+                      fontSize: 15,
                       borderColor: "#d0d0d0",
                       borderWidth: 0.1,
                       borderRadius: 10,
