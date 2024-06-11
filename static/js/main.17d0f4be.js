@@ -11201,12 +11201,9 @@
           (0, c.jsxs)("div", {
             style: {
               maxWidth: 680,
-              marginTop: 30,
               marginBottom: 200,
               marginRight: 10,
               marginLeft: 10,
-              paddingLeft: 15,
-              paddingRight: 15,
               paddingBottom: 40,
               background:
                 "linear-gradient(110deg,#daedff 5.08%,#dfe7ff 34.89%,#f1f5fb 60.82%)",
@@ -11490,6 +11487,7 @@
               }),
               (0, c.jsxs)("div", {
                 className: "",
+                style: {},
                 children: (0, c.jsx)("textarea", {
                   type: "text",
                   value: m,
@@ -11668,11 +11666,12 @@
               }),
               (0, c.jsx)("button", {
                 style: {
-                  width: "95%",
+                  width: "100%",
                   height: 45,
                   fontWeight: "bold",
                   fontSize: 18,
                   borderRadius: 30,
+                  marginBottom: 20,
                   borderWidth: 0,
                   backgroundColor: p ? "#3084F4" : "#7DAFF9",
                   cursor: "pointer",
