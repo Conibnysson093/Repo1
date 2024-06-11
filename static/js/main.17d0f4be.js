@@ -11466,9 +11466,7 @@
                       fontWeight: "bold",
                       fontSize: 20,
                       color: "#3084F4",
-                      marginTop: 15,
-                      marginLeft: 30,
-                      marginBottom: 15,
+                      margin: "15px 30px 15px 30px",
                     },
                     children: "Review request",
                   }),
@@ -11477,9 +11475,7 @@
                     style: {
                       fontWeight: "bold",
                       fontSize: 17,
-                      marginLeft: 30,
-                      marginTop: 15,
-                      marginBottom: 15,
+                      margin: "15px 30px 15px 30px",
                     },
                     children: "Fixing problems with account restrictions",
                   }),
@@ -11488,9 +11484,7 @@
                     style: {
                       fontWeight: "normal",
                       fontSize: 15,
-                      marginLeft: 30,
-                      marginTop: 15,
-                      marginBottom: 20,
+                      margin: "15px 30px 15px 30px",
                     },
                     children:
                       "Please be sure to provide the requested information below. Failure to provide this information may delay the processing of your appeal.",
