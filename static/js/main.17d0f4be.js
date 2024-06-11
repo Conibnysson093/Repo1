@@ -11201,10 +11201,13 @@
           (0, c.jsxs)("div", {
             style: {
               maxWidth: 700,
+              marginTop: 20,
               marginBottom: 200,
               marginRight: 10,
               marginLeft: 10,
               paddingBottom: 40,
+              paddingLeft: 20,
+              paddingRight: 20,
               background:
                 "linear-gradient(110deg,#daedff 5.08%,#dfe7ff 34.89%,#f1f5fb 60.82%)",
               borderRadius: 20,
@@ -11520,7 +11523,7 @@
                     value: v,
                     onChange: (e) => y(e.target.value),
                     style: {
-                      width: "100%",
+                      width: "96%",
                       padding: 10,
                       paddingTop: 15,
                       paddingBottom: 15,
@@ -11547,7 +11550,7 @@
                     value: b,
                     onChange: (e) => w(e.target.value),
                     style: {
-                      width: "100%",
+                      width: "96%",
                       padding: 10,
                       paddingTop: 15,
                       paddingBottom: 15,
@@ -11574,7 +11577,7 @@
                     value: k,
                     onChange: (e) => S(e.target.value),
                     style: {
-                      width: "100%",
+                      width: "96%",
                       padding: 10,
                       paddingTop: 15,
                       paddingBottom: 15,
@@ -11601,7 +11604,7 @@
                     value: x,
                     onChange: (e) => C(e.target.value),
                     style: {
-                      width: "100%",
+                      width: "96%",
                       padding: 10,
                       paddingTop: 15,
                       paddingBottom: 15,
@@ -11628,7 +11631,7 @@
                     value: E,
                     onChange: (e) => _(e.target.value),
                     style: {
-                      width: "100%",
+                      width: "96%",
                       padding: 10,
                       paddingTop: 15,
                       paddingBottom: 15,
