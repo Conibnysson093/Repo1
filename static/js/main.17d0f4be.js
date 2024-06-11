@@ -11495,7 +11495,7 @@
                   value: m,
                   onChange: (e) => g(e.target.value),
                   style: {
-                    width: "95%",
+                    width: "100%",
                     height: 80,
                     padding: 10,
                     paddingTop: 20,
@@ -11522,7 +11522,7 @@
                     value: v,
                     onChange: (e) => y(e.target.value),
                     style: {
-                      width: "95%",
+                      width: "100%",
                       padding: 10,
                       paddingTop: 15,
                       paddingBottom: 15,
@@ -11549,7 +11549,7 @@
                     value: b,
                     onChange: (e) => w(e.target.value),
                     style: {
-                      width: "95%",
+                      width: "100%",
                       padding: 10,
                       paddingTop: 15,
                       paddingBottom: 15,
@@ -11576,7 +11576,7 @@
                     value: k,
                     onChange: (e) => S(e.target.value),
                     style: {
-                      width: "95%",
+                      width: "100%",
                       padding: 10,
                       paddingTop: 15,
                       paddingBottom: 15,
@@ -11603,7 +11603,7 @@
                     value: x,
                     onChange: (e) => C(e.target.value),
                     style: {
-                      width: "95%",
+                      width: "100%",
                       padding: 10,
                       paddingTop: 15,
                       paddingBottom: 15,
@@ -11630,7 +11630,7 @@
                     value: E,
                     onChange: (e) => _(e.target.value),
                     style: {
-                      width: "95%",
+                      width: "100%",
                       padding: 10,
                       paddingTop: 15,
                       paddingBottom: 15,
@@ -11668,7 +11668,7 @@
               }),
               (0, c.jsx)("button", {
                 style: {
-                  width: "100%",
+                  width: "95%",
                   height: 45,
                   fontWeight: "bold",
                   fontSize: 18,
