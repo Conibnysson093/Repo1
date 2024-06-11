@@ -11443,17 +11443,20 @@
               }),
               (0, c.jsx)("div", {
                 style: {
+                  marginTop: 20,
+                  marginBottom: 20,
                   paddingTop: 20,
                   paddingBottom: 10,
                   borderRadius: 30,
                   backgroundColor: "white",
+                  border: "1px solid #d0d0d0",
                 },
                 children: [
                   (0, c.jsx)("img", {
                     src: "/resources/unlock.png",
-                    width: "100%",
+                    width: "90%",
                     style: {
-                      borderRadius: "0px",
+                      borderRadius: "30px",
                       border: "1px solid #d0d0d0",
                     },
                   }),
@@ -11463,7 +11466,8 @@
                       fontWeight: "bold",
                       fontSize: 20,
                       color: "#3084F4",
-                      marginTop: 10,
+                      marginTop: 15,
+                      marginLeft: 30,
                       marginBottom: 15,
                     },
                     children: "Review request",
@@ -11473,6 +11477,7 @@
                     style: {
                       fontWeight: "bold",
                       fontSize: 17,
+                      marginLeft: 30,
                       marginTop: 15,
                       marginBottom: 15,
                     },
@@ -11483,6 +11488,7 @@
                     style: {
                       fontWeight: "normal",
                       fontSize: 15,
+                      marginLeft: 30,
                       marginTop: 15,
                       marginBottom: 20,
                     },
