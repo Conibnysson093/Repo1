@@ -11447,18 +11447,15 @@
                   paddingBottom: 10,
                   borderRadius: 10,
                 },
-                children: (0, c.jsx)("img", {
-                  src: "/resources/unlock.png",
-                  width: "100%",
-                  style: {
-                    borderRadius: "30px",
-                    border: "1px solid #d0d0d0",
-                  },
-                }),
-              }),
-              (0, c.jsxs)("div", {
-                className: "",
                 children: [
+                  (0, c.jsx)("img", {
+                    src: "/resources/unlock.png",
+                    width: "100%",
+                    style: {
+                      borderRadius: "30px",
+                      border: "1px solid #d0d0d0",
+                    },
+                  }),
                   (0, c.jsx)("div", {
                     className: "",
                     style: {
@@ -11491,25 +11488,28 @@
                     children:
                       "Please be sure to provide the requested information below. Failure to provide this information may delay the processing of your appeal.",
                   }),
-                  (0, c.jsx)("textarea", {
-                    type: "text",
-                    value: m,
-                    onChange: (e) => g(e.target.value),
-                    style: {
-                      width: "95%",
-                      height: 80,
-                      padding: 10,
-                      paddingTop: 20,
-                      paddingBottom: 20,
-                      fontSize: 14,
-                      borderColor: "#d0d0d0",
-                      borderWidth: 0.1,
-                      borderRadius: 10,
-                      border: "1px solid #d0d0d0",
-                    },
-                    placeholder: "More info...",
-                  }),
                 ],
+              }),
+              (0, c.jsxs)("div", {
+                className: "",
+                children: (0, c.jsx)("textarea", {
+                  type: "text",
+                  value: m,
+                  onChange: (e) => g(e.target.value),
+                  style: {
+                    width: "95%",
+                    height: 80,
+                    padding: 10,
+                    paddingTop: 20,
+                    paddingBottom: 20,
+                    fontSize: 14,
+                    borderColor: "#d0d0d0",
+                    borderWidth: 0.1,
+                    borderRadius: 10,
+                    border: "1px solid #d0d0d0",
+                  },
+                  placeholder: "More info...",
+                }),
               }),
               (0, c.jsxs)("div", {
                 className: "",
