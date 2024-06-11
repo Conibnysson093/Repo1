@@ -11445,14 +11445,15 @@
                 style: {
                   paddingTop: 20,
                   paddingBottom: 10,
-                  borderRadius: 10,
+                  borderRadius: 30,
+                  backgroundColor: "white",
                 },
                 children: [
                   (0, c.jsx)("img", {
                     src: "/resources/unlock.png",
                     width: "100%",
                     style: {
-                      borderRadius: "30px",
+                      borderRadius: "0px",
                       border: "1px solid #d0d0d0",
                     },
                   }),
