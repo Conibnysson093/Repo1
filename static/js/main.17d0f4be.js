@@ -11463,7 +11463,7 @@
                       fontWeight: "bold",
                       fontSize: 20,
                       color: "#3084F4",
-                      margin: "15px 20px 15px 30px",
+                      margin: "15px 20px 15px 20px",
                     },
                     children: "Review request",
                   }),
@@ -11472,7 +11472,7 @@
                     style: {
                       fontWeight: "bold",
                       fontSize: 17,
-                      margin: "15px 20px 15px 30px",
+                      margin: "15px 20px 15px 20px",
                     },
                     children: "Fixing problems with account restrictions",
                   }),
