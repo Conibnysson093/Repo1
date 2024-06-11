@@ -11345,7 +11345,6 @@
                 className: "",
                 style: {
                   backgroundColor: "#ffffff",
-                  marginTop: 40,
                   paddingTop: 20,
                   paddingBottom: 20,
                   borderColor: "#000000",
@@ -11360,7 +11359,6 @@
                       textAlign: "center",
                       fontWeight: "bold",
                       fontSize: 26,
-                      marginTop: 20,
                       marginBottom: 20,
                     },
                     children: "Copyright Appeal Form",
@@ -11456,7 +11454,7 @@
                     src: "/resources/unlock.png",
                     width: "100%",
                     style: {
-                      borderTop: "30px",
+                      borderRadius: "30px 30px 0px 0px",
                       border: "1px solid #d0d0d0",
                     },
                   }),
